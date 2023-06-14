@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Flipkart repository</name>
-	      <url>http://100.26.185.14:8081/repository/Flipkart-release/</url>
+	      <name>Monitor-MIQ</name>
+	      <url>http://54.164.92.84:8081/repository/Flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Flipkart repository</name>
-	      <url>http://100.26.185.14:8081/repository/Flipkart-Snapshot/</url>
+	      <name>Monitor-MIQ</name>
+	      <url>http://54.164.92.84:8081/repository/Flipkart-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
